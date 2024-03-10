@@ -1,0 +1,1 @@
+exiftool -overwrite_original -all= -ext jpg -r ..
