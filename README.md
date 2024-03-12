@@ -1,4 +1,4 @@
-# Testi smer Tehnik Racunalnistva (2006 letnik)
+# Testi Tehnik Racunalnistva (2006 letnik)
 
 ## Profesorji:
 
@@ -45,6 +45,6 @@ UPN1: Podpadec
 
 UPN2: Pene
 
-VPO:  Urbanija
+VPO: Urbanija
 
 ZGO: Pretnar
