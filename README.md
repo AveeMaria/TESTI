@@ -51,11 +51,11 @@ ZGO: Pretnar
 
 ## Zgubljeni testi:
 
-###1. letnik:
+### 1. letnik:
 
 MAT mini preverjanje #5
 
-###2. letnik:
+### 2. letnik:
 
 DIT 2. test
 UPN2 2. test
