@@ -58,6 +58,9 @@ MAT mini preverjanje #5
 ### 2. letnik:
 
 DIT 2. test
+
 UPN2 2. test
+
 VPO 2. test
+
 ZGO 3. test
