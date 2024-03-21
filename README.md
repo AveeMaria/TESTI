@@ -53,6 +53,8 @@ ZGO: Pretnar
 
 ### 1. letnik:
 
+UME vsi testi
+
 MAT mini preverjanje #5
 
 ### 2. letnik:
