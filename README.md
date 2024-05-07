@@ -24,6 +24,11 @@ VPO:  Ajanović
 
 VOS:  Sitar
 
+ITKv: Volčini
+
+IKPv: Žnideršič
+
+EKIp: Čugalj
 
 ### 2. Letnik:
 
@@ -48,6 +53,14 @@ UPN2: Pene
 VPO: Urbanija
 
 ZGO: Pretnar
+
+UP1v: Ajanović
+
+VPOp: Seme
+
+DITv: Tomšič
+
+EKIp: Čugalj
 
 ## Zgubljeni testi:
 
