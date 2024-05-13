@@ -76,7 +76,7 @@ FIZ: Guštin
 
 IKP2: Sitar
 
-MAT: Horvatič
+MAT: Drljača & Horvatič (vsaka eno polletje)
 
 OVE: Guštin
 
