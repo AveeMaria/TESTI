@@ -2,6 +2,10 @@
 
 ## Profesorji:
 
+### Pomembno: 
+
+1. letnik ZGO (smer elektrotehnik) = 2. letnik ZGO (smer racunalnicar)
+
 ### 1. Letnik:
 
 ANG: Fink
