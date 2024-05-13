@@ -22,9 +22,11 @@ MAT: Grozdanić Pavlin
 
 SLO: Šušteršič Menart
 
-VPO:  Ajanović
+VPO: Ajanović
 
-VOS:  Sitar
+VOS: Sitar
+
+
 
 ITKv: Volčini
 
@@ -56,13 +58,49 @@ VPO: Urbanija
 
 ZGO: Pretnar
 
-UP1v: Ajanović
+
+
+UPN1v: Ajanović
 
 VPOp: Seme
 
 DITv: Tomšič
 
 EKIp: Čugalj
+
+### 3. Letnik:
+
+ANG: Kovač Martinčič
+
+FIZ: Guštin
+
+IKP2: Sitar
+
+MAT: Horvatič
+
+OVE: Guštin
+
+PPB: Majnik
+
+RPA: Makarovič
+
+RVP: Krišelj
+
+SLO: Šušteršič Menart
+
+VOS: Smole
+
+
+
+PPBv: Majnik
+
+RPAv: Makarovič
+
+RVPp: Krišelj
+
+VOSp: Kralj
+
+VOSv: Smole
 
 ## Zgubljeni testi:
 
