@@ -1,7 +1,5 @@
 # Vegova Tehnik Racunalnistva testi od 2021-2025 (generacija 2006)
 
-Morda nisem Batman, ampak sem ti spet rešil rit. (sory to je mad cringe)
-
 ## Profesorji:
 
 #### 1. letnik ZGO (smer elektrotehnik) = 2. letnik ZGO (smer racunalnicar)
