@@ -1,0 +1,8 @@
+1) Napiši funkcijo, ki bo izraèunala vsoto vseh števk števila n. To število naj bo vhodni podatek v funkcijo. Funkcijo klièi v glavnem programu tako,
+da bo ta vrnila kratko celo število, vhodni podatek n pa naj bo celo število. V drugem klicu pa naj ta ista funkcija vrne celo štrevilo,
+za vhodni podatek pa naj prejme dolgo celo število.
+
+2) Napiši funkcijo, ki bo izraèunala n-ti èlen Fibonaccijevega zaporedja. Primer Fibbonacijevega zaporedja: 1,1,3,5,8,13,...
+Funkcijo klièi v glavnem programu tako da bo vrnila dolgo celo število, njen vhodni podatek n pa naj bo pozitivni celo število. V drugem klicu pa naj ta ista funkcija vrne realno število, za vhodni podatek pa naj prejme pozitivni celo število (Namig: uporabljaj fukcijske okvirje - templates).
+Napiši obe inaèici te funkcije - rekurzivno in iterativno!
+
