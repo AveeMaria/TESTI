@@ -1,4 +1,4 @@
-># Vegova Tehnik Racunalnistva testi od 2021-2025 (generacija 2006)
+># Vegova Tehnik Racunalnistva testi od 2021-2025 (generacija 2006) + 2024 (generacija 2009)
 
 #### 1. letnik ZGO (smer elektrotehnik) = 2. letnik ZGO (smer racunalnicar)
 
@@ -6,27 +6,41 @@
 
 >### 1. Letnik:
 
-ANG: Fink
+ANG: Fink (nov program -> 1. in 2. test nadomestna prof.)
 
-EKI: Kocjan
+KEM: Kučan, Vukelić
+
+MAT: Grozdanić Pavlin, Židan
+
+SLO: Šušteršič Menart, Rozman
 
 GEO: Škerbot
+
+---
+
+OSPR: Kompolšek
+
+URAČ: Pene
+
+SPOP: Sitar
+
+OSPRv: Kompolšek
+
+URAČv: Pene
+
+SPOPv: Seme
+
+---
+
+EKI: Kocjan
 
 IKP: Žnideršič
 
 ITK: Volčini
 
-KEM: Kučan
-
-MAT: Grozdanić Pavlin
-
-SLO: Šušteršič Menart
-
 VPO: Ajanović
 
 VOS: Sitar
-
----
 
 ITKv: Volčini
 
