@@ -1,5 +1,7 @@
 ># Vegova Tehnik Racunalnistva testi od 2021-2025 (generacija 2006) + 2024 (generacija 2009)
 
+# Dodajte karkoli imate 
+
 #### 1. letnik ZGO (smer elektrotehnik) = 2. letnik ZGO (smer racunalnicar)
 
 ## PROFESORJI:
