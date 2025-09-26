@@ -120,35 +120,35 @@ VOSv: Smole
 
 >### 4. letnik
 
-ANG:
+ANG: Kovač Martinčič
 
-FTE:
+FTE: Erman
 
-MAT:
+MAT: Hrovatič
 
-NIK:
+NIK: Stipetić
 
-NPB:
+NPB: Toth
 
-NSA:
+NSA: Lončarič
 
-PSI:
+PSI: Cvetković
 
-RAO:
+RAO: Urbanija
 
-RVP:
+RVP: Setničar
 
-SLO:
+SLO: Menart
 
 ---
 
-NPBv:
+NPBv: Toth
 
-NSAv:
+NSAv: Lončarič
 
-RAOv:
+RAOv: Trstenjak
 
-RVPv:
+RVPv: Setničar
 
 >## Zgubljeni testi:
 
